@@ -20,11 +20,11 @@ Step 5:On pressing the change font size button, the size of the font gets altere
 Step 6:Close the Android project.
 
 # Program:
-/*
+```
 Program to Develop an application that uses Font Size using Android Studio .
 Developed by: SRI RANJANI PRIYA P
 RegisterNumber: 212222220049
-*/
+```
 # MainActivity.java:
 ```
 package com.example.ex_2b;
